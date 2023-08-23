@@ -2,12 +2,12 @@
 
 <h1>Login Client Bob</h1>
 
-![BobChatAfterNickLogin](https://github.com/Nikos-Michelis/Chat-Room/assets/92666389/8f46ca3b-8d9e-467e-92f2-a881900d571f)
 ![BobLogin](https://github.com/Nikos-Michelis/Chat-Room/assets/92666389/68344e5f-a21d-4964-999d-0eb70f0f3670)
+![BobChatAfterNickLogin](https://github.com/Nikos-Michelis/Chat-Room/assets/92666389/8f46ca3b-8d9e-467e-92f2-a881900d571f)
 <h1>Login Client Nick</h1>
 
-![NickSuccessLogin](https://github.com/Nikos-Michelis/Chat-Room/assets/92666389/cd4c4176-a1f3-4aaf-a68e-6be493862332)
 ![NickLogin](https://github.com/Nikos-Michelis/Chat-Room/assets/92666389/9d1c7beb-ec9d-4340-9f87-f36110ec3e64)
+![NickSuccessLogin](https://github.com/Nikos-Michelis/Chat-Room/assets/92666389/cd4c4176-a1f3-4aaf-a68e-6be493862332)
 
 <h1>Discussion</h1>
 <h1>Nick</h1>
