@@ -1,4 +1,4 @@
-<h1>Multi-Client LAN Chat Application</h1>
+<h1>                                                                              Multi-Client LAN Chat Application</h1>
 
 <h1>Login Client Bob</h1>
 
