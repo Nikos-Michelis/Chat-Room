@@ -11,7 +11,6 @@
 
 
 <h1>Discussion</h1>
-<h1>Discussion</h1>
 <h1>Nick</h1>
 
 ![NickChat](https://github.com/Nikos-Michelis/Chat-Room/assets/92666389/90580350-89b3-40f8-8ff2-71c8903adaaf)
