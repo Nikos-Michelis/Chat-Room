@@ -12,12 +12,7 @@
 <h1>Discussion</h1>
 <h1>- Nick</h1>
 
-<img .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-} margin-left=auto; margin-right=auto;>![NickChat](https://github.com/Nikos-Michelis/Chat-Room/assets/92666389/90580350-89b3-40f8-8ff2-71c8903adaaf)</img>
+![NickChat](https://github.com/Nikos-Michelis/Chat-Room/assets/92666389/90580350-89b3-40f8-8ff2-71c8903adaaf)
 <h1>- Bob</h1>
 
 ![BobChat](https://github.com/Nikos-Michelis/Chat-Room/assets/92666389/7a1d0220-b531-4bf6-b214-45fc47d4f66f)
