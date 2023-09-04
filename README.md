@@ -11,6 +11,7 @@
 
 <h1>Discussion</h1>
 <h1>- Nick</h1>
+
 <img .center {
   display: block;
   margin-left: auto;
